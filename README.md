@@ -72,7 +72,7 @@ Feel free to submit issues, fork the repository, and send pull requests with imp
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Support
 
-For any inquiries or questions, please contact [nikhilchavan081998de@gmail.com].
+If you encounter any issues or have any questions about the HR System, please open an issue on GitHub.
 ```
