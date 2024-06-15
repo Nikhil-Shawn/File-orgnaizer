@@ -13,7 +13,7 @@ file_type_folders = {
     'PowerPoint Files': ['pptx', 'ppt'],
     'Archives': ['7z', 'tar', 'gz'],
     'Media': ['mp3', 'mp4', 'wav', 'avi', 'mkv', 'mov'],
-    'Install Files': ['exe', 'msi']
+    'Install Files': ['exe', 'msi', 'jar']
 }
 
 def organize_files(folder_path):
