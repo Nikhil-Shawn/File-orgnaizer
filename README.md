@@ -74,5 +74,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you encounter any issues or have any questions about the HR System, please open an issue on GitHub.
+If you encounter any issues or have any questions about the HR System, please [open an issue](https://github.com/Nikhil-Shawn/File-orgnaizer/issues) on GitHub.
 ```
