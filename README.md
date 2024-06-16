@@ -1,7 +1,3 @@
-Sure! Here's an updated version of the README to include both file and folder organizing features:
-
----
-
 # File and Folder Organizer
 
 This Python script organizes files and folders in a specified directory by sorting them into subfolders based on their file extensions and predefined categories. For example, all `.pdf` files will be moved to a "PDFs" folder, all `.jpg` files to an "Images" folder, and so on. Additionally, folders can be categorized based on specific keywords.
